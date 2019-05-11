@@ -1,0 +1,7 @@
+README.md
+printlabel.py
+setup.py
+printlabel.egg-info/PKG-INFO
+printlabel.egg-info/SOURCES.txt
+printlabel.egg-info/dependency_links.txt
+printlabel.egg-info/top_level.txt
